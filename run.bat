@@ -1,2 +1,2 @@
-python blast.py test.sp
+python blast.py test.b
 pause
